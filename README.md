@@ -1,5 +1,5 @@
-### Hi there 👋
-## Peace be upon you 😇
+### Hi there 
+## Peace be upon you 
 I'm Omi, competetive programmer and undergraduate student of Computer Science & Engineering.
 
 <p align="center">
