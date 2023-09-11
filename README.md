@@ -15,9 +15,18 @@
 </p>
 
 <h2> Stats </h2>
-
+<!-- 
 ![Omi's GitHub stats](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 [![Top Langs](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
+-->
+
+<!--
+![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
+-->
+![Omi's GitHub stats](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
 
 
 <h2> Skills </h2>
@@ -30,24 +39,29 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h4> Frameworks </h4>
+<h4> Frameworks and Library </h4>
 <span>
   <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> -->
   <img src="https://img.shields.io/badge/react-092E20.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-%2300599C?style=for-the-badge&logo=apache-kafka&logoColor=white">
 </span>
 
 <h4> Databases </h4>
 <span>
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> -->
  <img src="https://img.shields.io/badge/MySQL-00599C?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+ <img src=" https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
 <h4> Operating System </h4>
