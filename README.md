@@ -9,7 +9,7 @@
 <p align="center">
  <a href="https://www.facebook.com/omio.antu"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/mdakibhossainomi/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=Linkedin" alt="LinkedIn"></a>
-<a href="https://codeforces.com/profile/--Sherlock-holmeS--"><img src="https://img.shields.io/twitter/url?label=codeforces&logo=CodeForces&url=https%3A%2F%2Fcodeforces.com%2F" alt="Codeforces"></a>
+<a href="https://codeforces.com/profile/Omi200045"><img src="https://img.shields.io/twitter/url?label=codeforces&logo=CodeForces&url=https%3A%2F%2Fcodeforces.com%2F" alt="Codeforces"></a>
 <a href="https://www.codechef.com/users/omi_200045"><img src="https://img.shields.io/twitter/url?label=codechef&logo=codechef&url=https%3A%2F%2Fwww.codechef.com" alt="Codechef"></a>
 <a href="https://www.hackerrank.com/Omi2004966"><img src="https://img.shields.io/twitter/url?label=hackerrank&logo=hackerrank&url=https%3A%2F%2Fwww.hackerrank.com" alt="hackerrank"></a>
 </p>
