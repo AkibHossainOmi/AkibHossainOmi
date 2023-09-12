@@ -24,7 +24,7 @@
 ![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
 -->
-![Omi's GitHub stats](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
+![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
 
