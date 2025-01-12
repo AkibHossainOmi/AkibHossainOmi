@@ -28,7 +28,7 @@
 ![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
 -->
-![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&rank_icon=github&theme=dark&token=${PAT_1})
+![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&rank_icon=github&theme=dark&include_all_commits=true&token=${PAT_1})
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AkibHossainOmi&theme=dark&token=${PAT_1})](https://git.io/streak-stats)
 
