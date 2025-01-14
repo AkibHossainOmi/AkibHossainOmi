@@ -14,6 +14,10 @@
 <a href="https://www.hackerrank.com/Omi2004966"><img src="https://img.shields.io/twitter/url?label=hackerrank&logo=hackerrank&url=https%3A%2F%2Fwww.hackerrank.com" alt="hackerrank"></a>
 </p>
 
+<h2> Trophies </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-B,-?)](https://github.com/AkibHossainOmi/github-profile-trophy)
+
 <h2> Stats </h2>
 <!-- 
 ![Omi's GitHub stats](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
