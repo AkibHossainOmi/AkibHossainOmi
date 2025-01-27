@@ -4,7 +4,7 @@
 
 - 📫 If you want to reach out to me, then just email me at **akibhossainomi2000@gmail.com**
 
-<h2>  🌐 Profile Links </h2>
+<h2>  Profile Links </h2>
 
 <p align="center">
  <a href="https://www.facebook.com/omio.antu"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
@@ -14,11 +14,11 @@
 <a href="https://www.hackerrank.com/Omi2004966"><img src="https://img.shields.io/twitter/url?label=hackerrank&logo=hackerrank&url=https%3A%2F%2Fwww.hackerrank.com" alt="hackerrank"></a>
 </p>
 
-<h2> 🏆 Trophies </h2>
+<h2> Trophies </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-?)]
 
-<h2> 📊 Stats </h2>
+<h2> Stats </h2>
 <!-- 
 ![Omi's GitHub stats](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 [![Top Langs](https://github-readme-stats-6idqh86d3-akibhossainomi.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
@@ -32,14 +32,14 @@
 ![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&show_icons=true&count_private=true&theme=great-gatsby&token=${PAT_1})
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=great-gatsby&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
 -->
-![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&count_private=true&rank_icon=github&theme=dark&include_all_commits=true&show_icons=true)
+![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&count_private=true&rank_icon=github&theme=dark&include_all_commits=true&show_icons=true&token=${PAT_1})
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AkibHossainOmi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AkibHossainOmi&theme=dark&token=${PAT_1})]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=dark&layout=compact&token=${PAT_1})](https://github.com/AkibHossainOmi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=dark&layout=compact&token=${PAT_1})]
 
 
-<h2> 💻 Skills </h2>
+<h2> Skills </h2>
 
 <h4> Languages </h4>
 <span> 
