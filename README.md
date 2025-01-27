@@ -16,7 +16,7 @@
 
 <h2> Trophies </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-?)]
+![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-?)
 
 <h2> Stats </h2>
 <!-- 
@@ -34,9 +34,9 @@
 -->
 ![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibHossainOmi&count_private=true&rank_icon=github&theme=dark&include_all_commits=true&show_icons=true&token=${PAT_1})
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AkibHossainOmi&theme=dark&token=${PAT_1})]
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AkibHossainOmi&theme=dark&token=${PAT_1})
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=dark&layout=compact&token=${PAT_1})]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=dark&layout=compact&token=${PAT_1})
 
 
 <h2> Skills </h2>
