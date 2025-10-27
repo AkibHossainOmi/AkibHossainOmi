@@ -16,7 +16,7 @@
 
 <h2> Trophies </h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AkibHossainOmi&column=3&margin-w=15&margin-h=15&theme=matrix&rank=-C,-?)
+![trophy](https://github-trophies.vercel.app/?username=AkibHossainOmi&theme=matrix)
 
 <h2> Stats </h2>
 
