@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! i'm Omi <br> Peace be upon you</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkibHossainOmi&color=0e75b6" alt="AkibHossainOmi" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=AkibHossainOmi.AkibHossainOmi&left_text=Profile%20views&right_color=%230e75b6" alt="AkibHossainOmi" /> </p>
 
 - 📫 If you want to reach out to me, then just email me at **akibhossainomi2000@gmail.com**
 
