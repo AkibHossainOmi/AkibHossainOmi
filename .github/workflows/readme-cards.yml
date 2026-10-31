@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/readme-cards.yml
 
 jobs:
   build:
