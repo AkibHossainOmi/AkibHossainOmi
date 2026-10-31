@@ -20,11 +20,11 @@
 
 <h2> Stats </h2>
 
-![Omi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AkibHossainOmi&count_private=true&rank_icon=github&theme=dark&include_all_commits=true&show_icons=true)
+![Omi's GitHub stats](./profile/stats.svg)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=AkibHossainOmi&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkibHossainOmi&theme=dark)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkibHossainOmi&theme=dark&layout=compact)
+![Top Langs](./profile/top-langs.svg)
 
 
 <h2> Skills </h2>
