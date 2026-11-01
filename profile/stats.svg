@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Md. Akib Hossain Omi&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 2988, Total PRs: 33, Total Issues: 3, Contributed to (last year): 3</desc>
+        <title id="titleId">Md. Akib Hossain Omi&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 50, Total Commits  : 2988, Total PRs: 33, Total Issues: 3, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 170.5881612627669;
+        stroke-dashoffset: 134.905874333105;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >4</text>
+      >50</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
