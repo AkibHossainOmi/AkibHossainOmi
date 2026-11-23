@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Md. Akib Hossain Omi&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  : 5302, Total PRs: 151, Total Issues: 71, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  : 5304, Total PRs: 152, Total Issues: 72, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.58571790280316;
+        stroke-dashoffset: 63.397621881492874;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >151</text>
+      >152</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >71</text>
+      >72</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
